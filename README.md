@@ -6,6 +6,17 @@ Guia para instalar la mierda que mandan en arch
 - [Nvim](https://github.com/hugocotoflorez/nvim)
 - [Excel](./excel/INSTALL.md)
 
+# quickstart
+
+Como clonar el repo
+```sh
+git clone https://github.com/hugocotoflorez/usc_packages_arch
+```
+o por ssh
+```sh
+git clone git@github.com:hugocotoflorez/usc_packages_arch
+```
+
 # wine
 
 ```sh
