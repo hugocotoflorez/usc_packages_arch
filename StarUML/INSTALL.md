@@ -2,7 +2,6 @@
 
 pkgbuild custom para instalarlo
 ``` sh
-cd StarUML
 makepkg -si
 ```
 
