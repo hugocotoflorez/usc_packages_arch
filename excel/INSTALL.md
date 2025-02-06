@@ -14,6 +14,6 @@ sudo mount -o loop HomeStudent2021Retail.img /mnt
 cd /mnt
 wine setup.exe
 ```
-> [!CATION]
+> [!CAUTION]
 > A mi no me funciona el instalador
 
