@@ -5,6 +5,7 @@ Guia para instalar la mierda que mandan en arch
 - [StarUML 6.1.2](./StarUML/INSTALL.md)
 - [Nvim](https://github.com/hugocotoflorez/nvim)
 - [Excel](./excel/INSTALL.md)
+- [Coga en linux](./coga_linux/README.md)
 
 # quickstart
 
