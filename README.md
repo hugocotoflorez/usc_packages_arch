@@ -12,10 +12,12 @@ Guia para instalar la mierda que mandan en arch
 Como clonar el repo
 ```sh
 git clone https://github.com/hugocotoflorez/usc_packages_arch
+cd usc_packages_arch
 ```
 o por ssh
 ```sh
 git clone git@github.com:hugocotoflorez/usc_packages_arch
+cd usc_packages_arch
 ```
 
 # wine
